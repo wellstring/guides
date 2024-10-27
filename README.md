@@ -1,5 +1,5 @@
 # Splatoon Guides
-A curated list of resources for competitive Splatoon 3. Many community-made resources tend to only be available via word of mouth or tweets, and this repository aims to compile them for anyone to easily access. Note that this will (mostly) not include wider known resources or those available via [sendou.ink's links page](https://sendou.ink/links).
+A curated list of resources for competitive Splatoon 3. Many community-made resources tend to only be available via word of mouth or tweets, and this repository aims to compile them for anyone to easily access.
 
 Additionally, this repository has my PDF guide providing resources to aid in captaining a Splatoon team. 
 
@@ -30,6 +30,7 @@ Please create a new issue if you have any guides or resources you think should b
 - [Tri-Slosher](https://www.youtube.com/watch?v=hPD1p-rD3Z4p)
 - [Tri-Slosher Nouveau](https://www.youtube.com/watch?v=s0bAuwkrVbw)
 - [Sloshing Machine](https://www.youtube.com/watch?v=IApkMf_3d64)
+- [Carbon Deco](https://www.youtube.com/watch?v=g3kLIta6BIE)
 - [Inkbrush](https://www.youtube.com/watch?v=dFedebEHDNw)
 - [Dualie Squelchers](https://www.youtube.com/watch?v=5VKbP0aYmek)
 - [Splat Brella](https://www.youtube.com/watch?v=Hcbkni-yyoU)
