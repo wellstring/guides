@@ -50,6 +50,7 @@ Please create a new issue if you have any guides or resources you think should b
 - [stat.ink](https://stat.ink) - Track match data and statistics
     - [s3s](https://github.com/frozenpandaman/s3s) - Automate uploading to stat.ink
     - [s3s + Docker](https://github.com/aaaldo/s3s_dockerized) - container for running s3s
+- [splat.top](https://splat.top/) - view top 500 players and weapon usage analytics
 - [JelonzoBot](https://splatoon.oatmealdome.me/) - Rotations for Splatoon 1 (Pretendo), 2, and 3
 - [splatoon3.ink](https://splatoon3.ink/) - Splatoon 3 rotations and SplatNet gear
 - [Inkipedia](https://splatoonwiki.org) - wiki for the Splatoon series
