@@ -17,6 +17,8 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Comp Styles Guide](https://docs.google.com/document/d/1RXQ1vRKc5V_RyLfkK69o1sq9_jpcmajjV61YGDH0n_g/edit) - weapon compositions and their associated strategies/win conditions
 - [Playing Smarter - Tactical Thinking](https://zy-f.notion.site/playing-smarter-a-guide-to-improving-tactical-thinking-625e307d08f142b6bb97895117365425) - a guide to improving beyond raw mechanical ability
 - [Map Callouts](https://drive.google.com/drive/folders/1qJ2j1VtQnHWvJEqf0Qv0L0WiLHADV0Bv) - shorthand for different areas of (most) Splatoon stages
+- [Miscellaneous Mechanics](https://www.youtube.com/watch?v=s-8gkQX1BoQ) A variety of unexplained mechanics
+- [Clam Blitz Mechanics](https://youtu.be/xgA3yEkOSBI) advanced clam spawning mechanics (applicable in Splatoon 3)
   
 ## Game Data
 - [Splatoon 3 Parameters](https://docs.google.com/spreadsheets/d/1uUIEmHaZTRc-hXdnSlu_zJoeTrlLbF2OTBnc3Ix5nAw/edit?gid=734298570#gid=734298570) - datamined weapon stats
