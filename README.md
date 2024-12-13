@@ -13,6 +13,7 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 
 ## Guides
 - [**Running a Splatoon Team**](Running%20a%20Splatoon%20Team.pdf) - **my guide providing tools to improve scheduling and organization for captains and teams**
+- [Competitive Splatoon Guidebook](https://www.splatoonstronghold.com/guides/competitive-splatoon-guidebook-part-1-competitive) - overview of competitive splatoon terminology and how to get into the scene
 - [Captains Guide Video Series](https://www.youtube.com/watch?v=Wtp-X-1W5rU&list=PLiBtcHtdkvJZk7OhLVf9o7qzIgXywZEID&pp=iAQB) - series going over forming and running a team
 - [Comp Styles Guide](https://docs.google.com/document/d/1RXQ1vRKc5V_RyLfkK69o1sq9_jpcmajjV61YGDH0n_g/edit) - weapon compositions and their associated strategies/win conditions
 - [Playing Smarter - Tactical Thinking](https://zy-f.notion.site/playing-smarter-a-guide-to-improving-tactical-thinking-625e307d08f142b6bb97895117365425) - a guide to improving beyond raw mechanical ability
