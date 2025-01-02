@@ -27,7 +27,8 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
     - [Gear Seed Checker](https://leanny.github.io/splat3seedchecker/#/) - deterministically obtain gear abilities
       
 ## Weapons
-- [Snipewriter Tips](https://bsky.app/profile/shinypikmin.bsky.social/post/3lapmisbz2s2a)
+- [Snipewriter 5H](https://www.youtube.com/watch?v=tfxVtbsTcsM)
+    - [Snipewriter Tips](https://bsky.app/profile/shinypikmin.bsky.social/post/3lapmisbz2s2a)
 - [Slosher](https://www.youtube.com/watch?v=d3xnDiSKDoU)
 - [Slosher Deco](https://www.youtube.com/watch?v=2sK5ActTRd8)
 - [Tri-Slosher](https://www.youtube.com/watch?v=hPD1p-rD3Z4p)
