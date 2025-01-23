@@ -13,7 +13,9 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 
 ## Guides
 - [**Running a Splatoon Team**](Running%20a%20Splatoon%20Team.pdf) - **my guide providing tools to improve scheduling and organization for captains and teams**
-- [Competitive Splatoon Guidebook](https://www.splatoonstronghold.com/guides/competitive-splatoon-guidebook-part-1-competitive) - overview of competitive splatoon terminology and how to get into the scene
+- [Competitive Splatoon Guidebook 1](https://www.splatoonstronghold.com/guides/competitive-splatoon-guidebook-part-1-competitive) - overview of competitive splatoon terminology and how to get into the scene
+- [Competitive Splatoon Guidebook 2](https://www.splatoonstronghold.com/guides/competitive-splatoon-guidebook-part-2-tournaments) - overview of tournament terminology and common tournaments to enter
+- [Competitive Splatoon Guidebook 3](https://www.splatoonstronghold.com/guides/competitive-splatoon-guidebook-part-3-contributing) - overview of getting into supportive roles in the community like tournament organizing and commentating.
 - [Captains Guide Video Series](https://www.youtube.com/watch?v=Wtp-X-1W5rU&list=PLiBtcHtdkvJZk7OhLVf9o7qzIgXywZEID&pp=iAQB) - series going over forming and running a team
 - [Comp Styles Guide](https://docs.google.com/document/d/1RXQ1vRKc5V_RyLfkK69o1sq9_jpcmajjV61YGDH0n_g/edit) - weapon compositions and their associated strategies/win conditions
 - [Playing Smarter - Tactical Thinking](https://zy-f.notion.site/playing-smarter-a-guide-to-improving-tactical-thinking-625e307d08f142b6bb97895117365425) - a guide to improving beyond raw mechanical ability
@@ -36,12 +38,13 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Sloshing Machine](https://www.youtube.com/watch?v=IApkMf_3d64)
 - [Carbon Deco](https://www.youtube.com/watch?v=g3kLIta6BIE)
 - [Inkbrush](https://www.youtube.com/watch?v=dFedebEHDNw)
+- [Splat Dualies (Part 1)](https://www.youtube.com/watch?v=D7NCkjEQcKU)
 - [Dualie Squelchers](https://www.youtube.com/watch?v=5VKbP0aYmek)
 - [Splat Brella](https://www.youtube.com/watch?v=Hcbkni-yyoU)
 - [Tri-Stringer](https://www.youtube.com/watch?v=87dWL6a0tzQ)
 - [Splatana Stamper](https://www.youtube.com/watch?v=9UEQ6hB0qQs)
 - [Splatana Wiper](https://www.youtube.com/watch?v=SMQFLqwoUY8)
-- [JP Splatoon VOD Resources](https://docs.google.com/spreadsheets/u/0/d/1ZoaHAclQp0pPyoWtLphxCXJUaMig41t_1jkAnart_1Y/htmlview#) - collection of JP streamers/youtubers sorted by weapon
+- [Splatoon VOD Resources](https://docs.google.com/spreadsheets/u/0/d/1ZoaHAclQp0pPyoWtLphxCXJUaMig41t_1jkAnart_1Y/htmlview#) - collection of JP/Western streamers and youtubers sorted by weapon
   
 ## Specials and Subs
 - [Crab Tank](https://docs.google.com/document/u/0/d/1BMljr_34RMUPn_8Kby-dlZiaaDR7KOPzBnuzmFGnEaI)
@@ -60,9 +63,9 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 ## Sites
 - [sendou.ink](https://sendou.ink) - Community hub for tournaments, SendouqQ ranked matches, gear builds, etc.
 - [stat.ink](https://stat.ink) - Track match data and statistics
-    - [s3s](https://github.com/frozenpandaman/s3s) - Automate uploading to stat.ink
-    - [s3s + Docker](https://github.com/aaaldo/s3s_dockerized) - container for running s3s
-- [splat.top](https://splat.top/) - view top 500 players and weapon usage analytics
+    - [s3s (BROKEN)](https://github.com/frozenpandaman/s3s) - Automate uploading to stat.ink
+    - [s3s + Docker (BROKEN)](https://github.com/aaaldo/s3s_dockerized) - container for running s3s
+- [splat.top (BROKEN)](https://splat.top/) - view top 500 players and weapon usage analytics
 - [JelonzoBot](https://splatoon.oatmealdome.me/) - Rotations for Splatoon 1 (Pretendo), 2, and 3
 - [splatoon3.ink](https://splatoon3.ink/) - Splatoon 3 rotations and SplatNet gear
 - [Inkipedia](https://splatoonwiki.org) - wiki for the Splatoon series
