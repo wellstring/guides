@@ -5,7 +5,7 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 
 ## Contents
 - [Guides](#guides)
-- [Game Data](#game-data)
+- [Game Data](#game-data-and-mechanics)
 - [Weapons](#weapons)
 - [Specials and Subs](#specials-and-subs)
 - [Sites](#sites)
@@ -17,13 +17,14 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Competitive Splatoon Guidebook 2](https://www.splatoonstronghold.com/guides/competitive-splatoon-guidebook-part-2-tournaments) - overview of tournament terminology and common tournaments to enter
 - [Competitive Splatoon Guidebook 3](https://www.splatoonstronghold.com/guides/competitive-splatoon-guidebook-part-3-contributing) - overview of getting into supportive roles in the community like tournament organizing and commentating.
 - [Captains Guide Video Series](https://www.youtube.com/watch?v=Wtp-X-1W5rU&list=PLiBtcHtdkvJZk7OhLVf9o7qzIgXywZEID&pp=iAQB) - series going over forming and running a team
-- [Comp Styles Guide](https://docs.google.com/document/d/1RXQ1vRKc5V_RyLfkK69o1sq9_jpcmajjV61YGDH0n_g/edit) - weapon compositions and their associated strategies/win conditions
+- [Comp Styles Guide](https://docs.google.com/document/d/1NLrgzGpfDxZCiOfUuLKgaBhQ7YAMjhnsRwWSCr1-kq0/edit?usp=sharing) - weapon compositions and their associated strategies/win conditions
 - [Playing Smarter - Tactical Thinking](https://zy-f.notion.site/playing-smarter-a-guide-to-improving-tactical-thinking-625e307d08f142b6bb97895117365425) - a guide to improving beyond raw mechanical ability
 - [Map Callouts](https://drive.google.com/drive/folders/1qJ2j1VtQnHWvJEqf0Qv0L0WiLHADV0Bv) - shorthand for different areas of (most) Splatoon stages
 - [Miscellaneous Mechanics](https://www.youtube.com/watch?v=s-8gkQX1BoQ) A variety of unexplained mechanics
-- [Clam Blitz Mechanics](https://youtu.be/xgA3yEkOSBI) advanced clam spawning mechanics (applicable in Splatoon 3)
   
-## Game Data
+## Game Data and Mechanics
+- [Clam Blitz Mechanics](https://youtu.be/xgA3yEkOSBI) advanced clam spawning mechanics (applicable in Splatoon 3)
+- [Passive Special Charge](https://www.youtube.com/watch?v=BSwgIHx2MrA) - mechanics for passive special charge by game mode
 - [Splatoon 3 Parameters](https://docs.google.com/spreadsheets/d/1uUIEmHaZTRc-hXdnSlu_zJoeTrlLbF2OTBnc3Ix5nAw/edit?gid=734298570#gid=734298570) - datamined weapon stats
 - [Lean's Resources](https://leanny.github.io/) - databases for gear, weapons, cosmetics, etc.
     - [Gear Seed Checker](https://leanny.github.io/splat3seedchecker/#/) - deterministically obtain gear abilities
@@ -50,6 +51,7 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Crab Tank](https://docs.google.com/document/u/0/d/1BMljr_34RMUPn_8Kby-dlZiaaDR7KOPzBnuzmFGnEaI)
 - [Kraken](https://www.youtube.com/watch?v=oackZvWEV1g)
 - [Ink Vac](https://www.youtube.com/watch?v=l118uYt8M2Q)
+- [Reefslider](https://www.youtube.com/watch?v=nOdMmLpYne0)
 - [Wavebreaker Spots](https://www.youtube.com/watch?v=MtAjldIGFG4)
 - [Toxic Mist](https://www.youtube.com/watch?v=XgmN60UJ5w4)
 - [Angle Shooter](https://www.youtube.com/watch?v=LUH71yqt9_U)
@@ -63,9 +65,9 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 ## Sites
 - [sendou.ink](https://sendou.ink) - Community hub for tournaments, SendouqQ ranked matches, gear builds, etc.
 - [stat.ink](https://stat.ink) - Track match data and statistics
-    - [s3s (BROKEN)](https://github.com/frozenpandaman/s3s) - Automate uploading to stat.ink
-    - [s3s + Docker (BROKEN)](https://github.com/aaaldo/s3s_dockerized) - container for running s3s
-- [splat.top (BROKEN)](https://splat.top/) - view top 500 players and weapon usage analytics
+    - [s3s](https://github.com/frozenpandaman/s3s) - Automate uploading to stat.ink (BROKEN)
+    - [s3s + Docker](https://github.com/aaaldo/s3s_dockerized) - container for running s3s (BROKEN)
+- [splat.top](https://splat.top/) - view top 500 players and weapon usage analytics (BROKEN)
 - [JelonzoBot](https://splatoon.oatmealdome.me/) - Rotations for Splatoon 1 (Pretendo), 2, and 3
 - [splatoon3.ink](https://splatoon3.ink/) - Splatoon 3 rotations and SplatNet gear
 - [Inkipedia](https://splatoonwiki.org) - wiki for the Splatoon series
