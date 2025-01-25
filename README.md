@@ -36,7 +36,6 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
       
 ## Weapons
 - [Snipewriter 5H](https://www.youtube.com/watch?v=tfxVtbsTcsM)
-    - [Snipewriter Tips](https://bsky.app/profile/shinypikmin.bsky.social/post/3lapmisbz2s2a)
 - [Slosher](https://www.youtube.com/watch?v=d3xnDiSKDoU)
 - [Slosher Deco](https://www.youtube.com/watch?v=2sK5ActTRd8)
 - [Tri-Slosher](https://www.youtube.com/watch?v=hPD1p-rD3Z4p)
@@ -50,7 +49,7 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Tri-Stringer](https://www.youtube.com/watch?v=87dWL6a0tzQ)
 - [Splatana Stamper](https://www.youtube.com/watch?v=9UEQ6hB0qQs)
 - [Splatana Wiper](https://www.youtube.com/watch?v=SMQFLqwoUY8)
-- [Splatoon VOD Resources](https://docs.google.com/spreadsheets/u/0/d/1ZoaHAclQp0pPyoWtLphxCXJUaMig41t_1jkAnart_1Y/htmlview#) - collection of JP/Western streamers and youtubers sorted by weapon
+- [Splatoon VOD Resources](https://docs.google.com/spreadsheets/u/0/d/1ZoaHAclQp0pPyoWtLphxCXJUaMig41t_1jkAnart_1Y/htmlview#) - collection of streamers and youtubers sorted by weapon
   
 ## Specials and Subs
 - [Crab Tank](https://docs.google.com/document/u/0/d/1BMljr_34RMUPn_8Kby-dlZiaaDR7KOPzBnuzmFGnEaI)
