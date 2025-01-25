@@ -20,11 +20,16 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Comp Styles Guide](https://docs.google.com/document/d/1NLrgzGpfDxZCiOfUuLKgaBhQ7YAMjhnsRwWSCr1-kq0/edit?usp=sharing) - weapon compositions and their associated strategies/win conditions
 - [Playing Smarter - Tactical Thinking](https://zy-f.notion.site/playing-smarter-a-guide-to-improving-tactical-thinking-625e307d08f142b6bb97895117365425) - a guide to improving beyond raw mechanical ability
 - [Map Callouts](https://drive.google.com/drive/folders/1qJ2j1VtQnHWvJEqf0Qv0L0WiLHADV0Bv) - shorthand for different areas of (most) Splatoon stages
-- [Miscellaneous Mechanics](https://www.youtube.com/watch?v=s-8gkQX1BoQ) A variety of unexplained mechanics
   
 ## Game Data and Mechanics
-- [Clam Blitz Mechanics](https://youtu.be/xgA3yEkOSBI) advanced clam spawning mechanics (applicable in Splatoon 3)
+- [Clam Blitz Mechanics](https://youtu.be/xgA3yEkOSBI) - clam spawning mechanics (applicable in Splatoon 3)
 - [Passive Special Charge](https://www.youtube.com/watch?v=BSwgIHx2MrA) - mechanics for passive special charge by game mode
+- [Shot Spread Infographics](infographics) - by @n8te-the-gr8te.bsky.social
+  - <p><details><summary>Shooters</summary><img src="infographics/shooter_spread.jpg"></details></p>
+  - <p><details><summary>Dualies</summary><img src="infographics/dualie_spread.jpg"></details></p>
+  - <p><details><summary>Splatlings</summary><img src="infographics/splatling_spread.jpg"></details></p>
+  - <p><details><summary>Blasters</summary><img src="infographics/blaster_spread.jpg"></details></p>
+- [Miscellaneous Mechanics](https://www.youtube.com/watch?v=s-8gkQX1BoQ) - variety of unexplained mechanics
 - [Splatoon 3 Parameters](https://docs.google.com/spreadsheets/d/1uUIEmHaZTRc-hXdnSlu_zJoeTrlLbF2OTBnc3Ix5nAw/edit?gid=734298570#gid=734298570) - datamined weapon stats
 - [Lean's Resources](https://leanny.github.io/) - databases for gear, weapons, cosmetics, etc.
     - [Gear Seed Checker](https://leanny.github.io/splat3seedchecker/#/) - deterministically obtain gear abilities
