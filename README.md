@@ -22,7 +22,19 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Map Callouts](https://drive.google.com/drive/folders/1qJ2j1VtQnHWvJEqf0Qv0L0WiLHADV0Bv) - shorthand for different areas of (most) Splatoon stages
   
 ## Game Data and Mechanics
-- [Clam Blitz Mechanics](https://youtu.be/xgA3yEkOSBI) - clam spawning mechanics (applicable in Splatoon 3)
+- [Clam Blitz Mechanics](https://youtu.be/QHQqN8ISFcw) clam blitz guide + mechanics
+    - <p><details><summary>Dropped clams when splatted</summary><img src="infographics/clams/drops.jpg"></details></p>
+    - <p><details><summary>Points for special</summary><img src="infographics/clams/pfs.jpg"></details></p>
+    - <p><details><summary>Symmetry of clam spawns</summary><img src="infographics/clams/distribution.jpg"></details></p>
+    - <p><details><summary>Common Clam Blitz Maps</summary>
+        <p><details><summary>Barnacle and Dime</summary><img src="infographics/clams/barnacle.png"></details></p>
+        <p><details><summary>Crableg Capital</summary><img src="infographics/clams/crableg.png"></details></p>
+        <p><details><summary>Inkblot Art Academy</summary><img src="infographics/clams/inkblot.png"></details></p>
+        <p><details><summary>MakoMart</summary><img src="infographics/clams/mako.png"></details></p>
+        <p><details><summary>Museum d'Alfonsino</summary><img src="infographics/clams/museum.png"></details></p>
+        <p><details><summary>Scorch Gorge</summary><img src="infographics/clams/scorch.png"></details></p>
+        <p><details><summary>Um'ami Ruins</summary><img src="infographics/clams/umami.png"></details></p>
+      </details></p>
 - [Passive Special Charge](https://www.youtube.com/watch?v=BSwgIHx2MrA) - mechanics for passive special charge by game mode
 - [Shot Spread Infographics](infographics) - by @n8te-the-gr8te.bsky.social
   - <p><details><summary>Shooters</summary><img src="infographics/shooter_spread.jpg"></details></p>
