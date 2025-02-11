@@ -22,7 +22,7 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Map Callouts](https://drive.google.com/drive/folders/1qJ2j1VtQnHWvJEqf0Qv0L0WiLHADV0Bv) - shorthand for different areas of (most) Splatoon stages
   
 ## Game Data and Mechanics
-- [Clam Blitz Mechanics](https://youtu.be/QHQqN8ISFcw) clam blitz guide + mechanics
+- [Clam Blitz Mechanics](https://youtu.be/QHQqN8ISFcw) - clam blitz guide + mechanics
     - <p><details><summary>Dropped clams when splatted</summary><img src="infographics/clams/drops.jpg"></details></p>
     - <p><details><summary>Points for special</summary><img src="infographics/clams/pfs.jpg"></details></p>
     - <p><details><summary>Symmetry of clam spawns</summary><img src="infographics/clams/distribution.jpg"></details></p>
@@ -36,11 +36,11 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
         <p><details><summary>Um'ami Ruins</summary><img src="infographics/clams/umami.png"></details></p>
       </details></p>
 - [Passive Special Charge](https://www.youtube.com/watch?v=BSwgIHx2MrA) - mechanics for passive special charge by game mode
-- [Shot Spread Infographics](infographics) - by @n8te-the-gr8te.bsky.social
-  - <p><details><summary>Shooters</summary><img src="infographics/shooter_spread.jpg"></details></p>
-  - <p><details><summary>Dualies</summary><img src="infographics/dualie_spread.jpg"></details></p>
-  - <p><details><summary>Splatlings</summary><img src="infographics/splatling_spread.jpg"></details></p>
-  - <p><details><summary>Blasters</summary><img src="infographics/blaster_spread.jpg"></details></p>
+- [Shot Spread](infographics) - infographics detailing shot spread and deviation
+  - <p><details><summary>Shooters</summary><img src="infographics/spread/shooter.png"></details></p>
+  - <p><details><summary>Dualies</summary><img src="infographics/spread/dualie.png"></details></p>
+  - <p><details><summary>Splatlings</summary><img src="infographics/spread/splatling.png"></details></p>
+  - <p><details><summary>Blasters</summary><img src="infographics/spread/blaster.png"></details></p>
 - [Miscellaneous Mechanics](https://www.youtube.com/watch?v=s-8gkQX1BoQ) - variety of unexplained mechanics
 - [Splatoon 3 Parameters](https://docs.google.com/spreadsheets/d/1uUIEmHaZTRc-hXdnSlu_zJoeTrlLbF2OTBnc3Ix5nAw/edit?gid=734298570#gid=734298570) - datamined weapon stats
 - [Lean's Resources](https://leanny.github.io/) - databases for gear, weapons, cosmetics, etc.
@@ -75,6 +75,7 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Point Sensor](https://www.youtube.com/watch?v=73OfRfjRCw4)
 - [Ink Mine](https://www.youtube.com/watch?v=6MAglxFummU)
 - [Sprinkler](https://www.youtube.com/watch?v=y-3mQHENezA)
+    - [Sprinkler Spots](https://www.youtube.com/watch?v=Ib4M4W5OY7g)
 - [Splash Wall (Pika)](https://www.youtube.com/watch?v=0SEIu2pNAhk)
 - [Splash Wall (Dude)](https://www.youtube.com/watch?v=5DUVYiGc2ek)
   
