@@ -41,6 +41,9 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
   - <p><details><summary>Dualies</summary><img src="infographics/spread/dualie.png"></details></p>
   - <p><details><summary>Splatlings</summary><img src="infographics/spread/splatling.png"></details></p>
   - <p><details><summary>Blasters</summary><img src="infographics/spread/blaster.png"></details></p>
+- [Brella Weapon Stats](https://docs.google.com/spreadsheets/d/1rcXWZJW8jTXNZrFRA3Tqi5UjsfvcbGiZ5e1Zy9_DJrs/htmlview#) - ink efficiency, shield multipliers, etc.
+- <p><details><summary>Stringer Stats</summary><img src="infographics/stringerclass.png">Credit: <a href="https://bsky.app/profile/stripesafterdeath.bsky.social">@stripesafterdeath.bsky.social</a></details></p>
+- [Ink Rail Mechanics (JP)](https://www.youtube.com/shorts/o0hN4b8Ki9E) - mechanics and movement using rails
 - [Miscellaneous Mechanics](https://www.youtube.com/watch?v=s-8gkQX1BoQ) - variety of unexplained mechanics
 - [Splatoon 3 Parameters](https://docs.google.com/spreadsheets/d/1uUIEmHaZTRc-hXdnSlu_zJoeTrlLbF2OTBnc3Ix5nAw/edit?gid=734298570#gid=734298570) - datamined weapon stats
 - [Lean's Resources](https://leanny.github.io/) - databases for gear, weapons, cosmetics, etc.
@@ -55,16 +58,20 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Sloshing Machine](https://www.youtube.com/watch?v=IApkMf_3d64)
 - [Carbon Deco](https://www.youtube.com/watch?v=g3kLIta6BIE)
 - [Inkbrush](https://www.youtube.com/watch?v=dFedebEHDNw)
+- [Painbrush Roll Tech](https://www.youtube.com/watch?v=00l6DHZfbpY)
 - [Splat Dualies (Part 1)](https://www.youtube.com/watch?v=D7NCkjEQcKU)
+- [Splat Dualies (Part 2)](https://www.youtube.com/watch?v=421tbehJ9qo)
 - [Dualie Squelchers](https://www.youtube.com/watch?v=5VKbP0aYmek)
 - [Splat Brella](https://www.youtube.com/watch?v=Hcbkni-yyoU)
 - [Tri-Stringer](https://www.youtube.com/watch?v=87dWL6a0tzQ)
+- [Wellstring](https://docs.google.com/document/d/1s-afyV7nEUYi-t8Z8Kx0AKc8xViSRFvAAltZ6hF3WMQ/edit?tab=t.0)
 - [Splatana Stamper](https://www.youtube.com/watch?v=9UEQ6hB0qQs)
 - [Splatana Wiper](https://www.youtube.com/watch?v=SMQFLqwoUY8)
 - [Splatoon VOD Resources](https://docs.google.com/spreadsheets/u/0/d/1ZoaHAclQp0pPyoWtLphxCXJUaMig41t_1jkAnart_1Y/htmlview#) - collection of streamers and youtubers sorted by weapon
   
 ## Specials and Subs
-- [Crab Tank](https://docs.google.com/document/u/0/d/1BMljr_34RMUPn_8Kby-dlZiaaDR7KOPzBnuzmFGnEaI)
+- [Crab Tank (Shadowind)](https://www.youtube.com/watch?v=JZmLdlfSu7I)
+- [Crab Tank (Punchy)](https://docs.google.com/document/u/0/d/1BMljr_34RMUPn_8Kby-dlZiaaDR7KOPzBnuzmFGnEaI)
 - [Kraken](https://www.youtube.com/watch?v=oackZvWEV1g)
 - [Ink Vac](https://www.youtube.com/watch?v=l118uYt8M2Q)
 - [Reefslider](https://www.youtube.com/watch?v=nOdMmLpYne0)
@@ -90,5 +97,7 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - [Inkipedia](https://splatoonwiki.org) - wiki for the Splatoon series
   
 ## Miscellaneous
+- [Sendou.ink Scoreboard Tutorial](https://www.youtube.com/watch?v=AFCgT_Is7k8) - pull tournament match information via Sheets.io
+- [Splat Weapon Tracker](https://epicyoshimaster.neocities.org/projects/splat-weapon-tracker) - display weapon stats on a dashboard
 - [Weapon Kit Generator](https://yagaa.itch.io/yagas-weapon-kit-generator) - generate custom weapon kits
 - [Splashtag Maker](https://splashtagmaker.com/) - generate a custom splashtag
