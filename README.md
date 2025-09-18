@@ -1,4 +1,9 @@
+### **This project has migrated to [Sunken Scrolls](https://scrolls.tessaract.gay/), a dedicated site for archiving Splatoon guides**
+
+---
+
 # Splatoon Guides
+
 A curated list of resources for competitive Splatoon 3. Many community-made resources tend to only be available via word of mouth or social media posts, and this repository aims to compile them for anyone to easily access. Please create a new issue if you have any resources you think should be added!
 
 Additionally, this repository is the home of [Running a Splatoon Team](Running%20a%20Splatoon%20Team.pdf), my guide for better organization of Splatoon teams!
@@ -45,7 +50,6 @@ Additionally, this repository is the home of [Running a Splatoon Team](Running%2
 - <p><details><summary>Stringer Stats</summary><img src="infographics/stringerclass.png">Credit: <a href="https://bsky.app/profile/stripesafterdeath.bsky.social">@stripesafterdeath.bsky.social</a></details></p>
 - [Ink Rail Mechanics (JP)](https://www.youtube.com/shorts/o0hN4b8Ki9E) - mechanics and movement using rails
 - [Miscellaneous Mechanics](https://www.youtube.com/watch?v=s-8gkQX1BoQ) - variety of unexplained mechanics
-- [Splatoon 3 Parameters](https://docs.google.com/spreadsheets/d/1uUIEmHaZTRc-hXdnSlu_zJoeTrlLbF2OTBnc3Ix5nAw/edit?gid=734298570#gid=734298570) - datamined weapon stats
 - [Lean's Resources](https://leanny.github.io/) - databases for gear, weapons, cosmetics, etc.
     - [Gear Seed Checker](https://leanny.github.io/splat3seedchecker/#/) - deterministically obtain gear abilities
       
